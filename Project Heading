@@ -1,1 +1,12 @@
+Task: Conduct Market Analysis for Mobiles on Amazon and Flipkart
 
+You are required to perform a market analysis for mobile phones on Amazon and Flipkart. Follow the steps below:
+
+Use Python and the Beautiful Soup library to scrape data from both websites.
+Create a data frame using Pandas to organize the collected data.
+Generate a CSV file containing the following information: Mobile Price, Brands, Models, and Customer Ratings.
+Utilize Power BI to design an interactive dashboard that visualizes key insights and trends.
+Present your findings, including comparative analysis between Amazon and Flipkart, in a concise and clear manner.
+Please provide the results of your analysis along with the code and a brief summary of the insights gained.
+
+This task allows participants to demonstrate their skills in web scraping, data manipulation, visualization, and presenting findings. They should provide the requested deliverables, including code, analysis results, and insights gained from the project.
